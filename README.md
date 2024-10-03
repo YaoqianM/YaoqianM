@@ -23,6 +23,6 @@ Master-> Engineering Management && Information Systems Management
 ⚡Project Experience: 
 Gaming Web Platform, Video-Sharing App, Distributed KV Storage System and E-Commerce Platform.
 
-⚡Languages and Database:  Java, C++, JavaScript, Kotlin, TypeScript, HTML, Redis, MySQL, MongoDB, Oracle SQL\
-⚡Frameworks and platform: SpringBoot, Spring, React, MyBatis, Node.js, RocketMQ, Zookeeper, AWS Cloud\
-⚡Tools:	 Docker, Kafka, JVM, VMware, Git, Maven, IntelliJ, Visual Studio Code, Agile, DevOps, ITIL
+⚡Java, C++, JavaScript, Kotlin, TypeScript, HTML, Redis, MySQL, MongoDB, Oracle SQL\
+⚡SpringBoot, Spring, React, MyBatis, Node.js, RocketMQ, Zookeeper, AWS Cloud\
+⚡Docker, Kafka, JVM, VMware, Git, Maven, IntelliJ, Visual Studio Code, Agile, DevOps, ITIL
