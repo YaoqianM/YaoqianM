@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-⚡Seeking for software engineer or Full-stack developer position
-starting at January 2025.
+⚡Seeking for software engineer or Full-stack developer position\
+starting at January 2025.\
 
-⚡B.S. -> Computer Science, 
-Master-> Engineering Management && Information Systems Management
+⚡B.S. -> Computer Science, \
+Master-> Engineering Management && Information Systems Management\
 
-⚡Project Experience: 
-Gaming Web Platform, Video-Sharing App, Distributed KV Storage System and E-Commerce Platform.
+⚡Project Experience: \
+Gaming Web Platform, Video-Sharing App, Distributed KV Storage System and E-Commerce Platform.\
 
-⚡Languages and Database:  Java, C++, JavaScript, Kotlin, TypeScript, HTML, Redis, MySQL, MongoDB, Oracle SQL
-⚡Frameworks and platform: SpringBoot, Spring, React, MyBatis, Node.js, RocketMQ, Zookeeper, AWS Cloud
-⚡Tools:	 Docker, Kafka, JVM, VMware, Git, Maven, IntelliJ, Visual Studio Code, Agile, DevOps, ITIL
+⚡Languages and Database:  Java, C++, JavaScript, Kotlin, TypeScript, HTML, Redis, MySQL, MongoDB, Oracle SQL\
+⚡Frameworks and platform: SpringBoot, Spring, React, MyBatis, Node.js, RocketMQ, Zookeeper, AWS Cloud\
+⚡Tools:	 Docker, Kafka, JVM, VMware, Git, Maven, IntelliJ, Visual Studio Code, Agile, DevOps, ITIL\
