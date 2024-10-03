@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-⚡Seeking for software engineer or Full-stack developer position\
-starting at January 2025.
 
 ⚡B.S. -> Computer Science, 
 Master-> Engineering Management && Information Systems Management
